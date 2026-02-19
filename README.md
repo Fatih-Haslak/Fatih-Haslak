@@ -1,7 +1,45 @@
-## Hi, I'm Fatih 👋
+👋 Hi, I'm Fatih
 
-I work on **Computer Vision** and **LLMs**, building real-world AI systems (detection, tracking, segmentation, anomaly detection, pose, deployment).
+AI Engineer focused on Computer Vision and Large Language Models (LLMs).
+I build production-oriented AI systems for real-world applications.
 
-- Focus: Vision + LLM / VLM, PyTorch, Transformers
-- Interest: real-time & edge AI (Jetson, TensorRT, FP16)
-- Goal: I want to work in **Istanbul** on applied AI/robotics projects.
+🔍 Focus Areas
+
+Object Detection & Tracking
+
+Image Segmentation
+
+Anomaly Detection
+
+Pose Estimation
+
+Vision-Language Models (VLM)
+
+Multi-modal AI Systems
+
+⚙️ Tech Stack
+
+PyTorch
+
+Transformers
+
+Vision + LLM Architectures
+
+Real-time Inference Systems
+
+Edge AI (Jetson, TensorRT, FP16)
+
+🚀 Interests
+
+Efficient model deployment
+
+Quantization & optimization
+
+Real-time AI on edge devices
+
+Applied robotics & autonomous systems
+
+📍 Career Goal
+
+I aim to work in Istanbul on applied AI and robotics projects,
+building scalable and production-ready intelligent systems.
